@@ -1,4 +1,4 @@
-# PortSwiggerLabs---Sql-Injection
+# PortSwiggerLabs - Sql-Injection
 
 This repository has automation script to exfiltrate data through sqli from PortSwigger labs.
 
